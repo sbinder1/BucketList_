@@ -9,3 +9,6 @@ With BucketList_ the opportunities are endless.
 
 ##Notes:
 In order to get QJSONObject working with C++ we used `brew install qt5` from Homebrew to get the latest version of QT working with our library documents.
+
+##Refrences:
+* [Using Brew and Qt5](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
