@@ -30,7 +30,7 @@ pass += "&departure_date=";
 pass += departureDate;
 pass += "&return_date=";
 pass += returnDate;
-pass += "&number_of_results=5&apikey=<pzKAzihWwjnCBh2H7L5RGRcmqpQUfpCs>=";
+pass += "API KEY";
 
 os << curlpp::options::Url(std::string(pass));
 
